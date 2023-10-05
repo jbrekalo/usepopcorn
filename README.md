@@ -1,8 +1,19 @@
-# React + Vite
+# The Ultimate React Course 2023: React, Redux & More
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## The "usePopcorn" Project
 
-Currently, two official plugins are available:
+### About the project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is a project from Jonas Schmedtmann's <strong>The Ultimate React Course 2023</strong>.
+
+The goal of this project is to learn how to correctly use Component Composition, fix Prop Drilling, creating more reusable Components and using Props as Component API.
+
+### Built with
+
+For this project i used:
+
+- React
+- Vanilla CSS
+- Vite
+
+**Have a great day and see you in another project!** 👋👩‍💻
